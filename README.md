@@ -4,7 +4,8 @@ This workshop will teach you ASP.NET with .NET 6 by building a complete app from
 
 ## Demo
 [FrontEnd](https://aspnet-app-workshop-net6.azurewebsites.net)
-[BackEnd API](https://aspnet-app-workshop-backend-net6.azurewebsites.net/swagger) |
+
+[BackEnd API](https://aspnet-app-workshop-backend-net6.azurewebsites.net/swagger)
 
 ## Setup
 

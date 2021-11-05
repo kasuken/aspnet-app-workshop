@@ -1,3 +1,5 @@
+![](banner.jpg)
+
 # ASP.NET (with .NET 6) - App Workshop
 
 This workshop will teach you ASP.NET with .NET 6 by building a complete app from scratch.
